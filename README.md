@@ -1,7 +1,7 @@
 # akka-actor-examples
 Simple examples that explain the basics of akka actors, with some examples of what not to do.
 
-Runnable files:
+### Runnable files:
 
 ActorApp: Simple single actor system. Prints some stuff.
 
